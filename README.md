@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Python , Machine Learning and Deep Learning.<br><br>👯 I’m looking to collaborate on Machine Learning<br><br>💬 Ask me about My Goals<br>Most Loved Deep Learning Framework: PyTorch<br><br>Want to work with: Advanced Computer Vision<br><br>Dream Project: Make a self driving Car<br><br>Where I see myself Next year: Making Cool Computer Vision Applications<br><br>📫 How to reach me: Connect with me on LinkedIn at here<br>www.linkedin.com/in/shanti-p-476a05266</p>
+<p align="left">🔭 I’m currently working on Python , Machine Learning and Deep Learning.<br><br>👯 I’m looking to collaborate on Machine Learning<br><br>💬 Ask me about My Goals<br>Most Loved Deep Learning Framework: PyTorch<br><br>Want to work with: Advanced Computer Vision<br><br>Dream Project: Make a self driving Car<br><br>Where I see myself Next year: Making Cool Computer Vision Applications<br><br>📫 How to reach me: Connect with me on LinkedIn at here<br>www.linkedin.com/in/shanti-p-476a05266<br><br>Courses : IBM Data Science Specialization</p>
 
 ###
 
@@ -38,10 +38,6 @@
 
 ###
 
-<p align="left">Courses :<br><br>IBM Data Science Specialization</p>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Shanti-27/count.svg?"  />
 </div>
@@ -51,10 +47,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shanti-27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shanti-27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Shanti-27&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Shanti-27/Shanti-27/output/snake.svg" alt="Snake animation" />
 
 ###
