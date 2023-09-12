@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Python , Machine Learning and Deep Learning.<br><br>👯 I’m looking to collaborate on Machine Learning<br><br>💬 Ask me about My Goals<br>Most Loved Deep Learning Framework: PyTorch<br><br>Want to work with: Advanced Computer Vision<br><br>Dream Project: Make a self driving Car<br><br>Where I see myself Next year: Making Cool Computer Vision Applications<br><br>📫 How to reach me: Connect with me on LinkedIn at here<br>www.linkedin.com/in/shanti-p-476a05266<br><br>Courses : IBM Data Science Specialization</p>
+<p align="left">🔭 I’m currently working on Python , Machine Learning and Deep Learning.<br><br>👯 I’m looking to collaborate on Machine Learning<br><br>💬 Ask me about My Goals<br>Most Loved Deep Learning Framework: PyTorch<br><br>Want to work with: Advanced Computer Vision<br><br>Dream Project: Make a self driving Car<br><br>Where I see myself Next year: Making Cool Computer Vision Applications<br><br>📫 How to reach me: Connect with me on LinkedIn at here<br>www.linkedin.com/in/shantipriya27/<br><br>Courses : IBM Data Science Specialization</p>
 
 ###
 
